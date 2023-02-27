@@ -7,3 +7,5 @@ This is the third line
 This is the fourth line
 
 Enter the 5th line via edit option
+
+Add one more row using a new branch
